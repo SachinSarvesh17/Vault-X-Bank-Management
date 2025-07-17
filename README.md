@@ -41,5 +41,5 @@ A full-stack web application for managing banking operations such as customer ma
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/SachinSarvesh17/bank-management.git
-cd bank-management
+git clone https://github.com/SachinSarvesh17/Vault-X-Bank-Management.git
+cd Vault-X-Bank-Management
